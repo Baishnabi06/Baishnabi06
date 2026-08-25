@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Baishnabi 👋
 
-<!--
-**Baishnabi06/Baishnabi06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Web Developer | BTech CSE Student
 
-Here are some ideas to get you started:
+I’m a developer interested in building **clean, responsive, and user-friendly web applications**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+**Frontend:** React.js · JavaScript · HTML · CSS · Tailwind CSS
+**Backend:** Node.js · Express.js · REST APIs
+**Database:** PostgreSQL · MongoDB · MySQL
+**Tools:** Git · GitHub · VS Code
+
+### Currently
+
+* Building and improving full-stack web applications
+* Learning more about backend development and system design
+* Working with React, Node.js, PostgreSQL, and REST APIs
+
+### Connect with Me
+
+[LinkedIn](https://www.linkedin.com/in/baishnabi-mahapatra-934a3632b/)
