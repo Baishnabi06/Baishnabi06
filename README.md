@@ -4,12 +4,17 @@
 
 I’m a developer interested in building **clean, responsive, and user-friendly web applications**.
 
+
 ### Tech Stack
 
 **Frontend:** React.js · JavaScript · HTML · CSS · Tailwind CSS
+
 **Backend:** Node.js · Express.js · REST APIs
+
 **Database:** PostgreSQL · MongoDB · MySQL
+
 **Tools:** Git · GitHub · VS Code
+
 
 ### Currently
 
